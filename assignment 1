@@ -1,0 +1,6 @@
+git init
+git add statics assignment
+git commit -m "commited"
+git remote add origin https://apurva18-apu/statics-assignment-1.git
+git push -u origin master
+git push origin master
